@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <Router>
-        <Navbar title="Word Counter" />
+        <Navbar title="Word-WIZ" />
         <Switch>
           <Route exact path="/about">
             <About />
